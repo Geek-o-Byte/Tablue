@@ -1,2 +1,2 @@
 # Tablue
-A browser extension for working with tables
+A browser extension for downloading website tables
